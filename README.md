@@ -6,7 +6,7 @@
 
 ## Student Grade Tracker
 
-This project is a simple command-line Student Grade Tracker that processes student data and displays grades and performance.
+This assignment is a simple command-line Student Grade Tracker that processes student data and displays grades and performance.
 
 ---
 
